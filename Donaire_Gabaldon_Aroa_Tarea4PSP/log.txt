@@ -1,0 +1,16 @@
+2026-05-04T22:44:38.777124500 - ERROR registro email inválido: aa%40aa
+2026-05-04T22:45:35.195634100 - ERROR registro email inválido: aa%40aa.com
+2026-05-04T22:46:37.044093600 - ERROR registro email inválido: test%40mail.com
+2026-05-04T22:47:12.343005700 - ERROR login email inválido: test%40mail.com
+2026-05-04T22:50:40.872051400 - Registro correcto: test@mail.com
+2026-05-04T22:50:50.039921400 - Login correcto: test@mail.com
+2026-05-04T22:55:35.671679300 - Login correcto: test@mail.com
+2026-05-04T23:53:55.082562400 - Registro correcto: test@mail.com
+2026-05-04T23:54:03.633420800 - Login correcto: test@mail.com
+2026-05-05T11:35:03.988158300 - Login correcto: test@mail.com
+2026-05-05T11:57:59.801338700 - Registro correcto: aa@aa.com
+2026-05-05T11:58:17.437567 - Login correcto: aa@aa.com
+2026-05-05T13:09:16.295133 - Registro correcto: bb@bb.es
+2026-05-05T13:09:25.515961800 - Login correcto: bb@bb.es
+2026-05-05T13:09:58.299296 - Login correcto: aa@aa
+2026-05-05T13:10:11.949613100 - ERROR login password inválida: gsg
